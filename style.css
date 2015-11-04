@@ -262,4 +262,9 @@ display: block;
 .navbar-brand {
 	display:none;
 }
-}
+.site-branding {
+	position:absolute;
+	top: -9999px;
+	left: -9999px;
+}	
+
